@@ -1,7 +1,8 @@
-# Public image host for post_ig.py: only the slide JPEGs that get posted to IG are published here.
+# Public host for post_ig.py: only what gets posted to IG is published here (slide JPEGs, news-reel.mp4).
 *
 !*/
 !*/slide-*.jpg
+!*/news-reel.mp4
 !.gitignore
 !README.md
 _unpublished-*/
